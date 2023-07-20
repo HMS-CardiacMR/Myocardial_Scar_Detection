@@ -13,6 +13,7 @@ In main, there is also 2 folders:
 - Ablation: training using ablation architectures. One main file per architecture.
 - SOTA: training using SOTA architectures. One main file per architecture.
 
+![Architecture_figure_github](https://github.com/HMS-CardiacMR/Myocardial_Scar_Detection/assets/9512423/9fceb879-9035-4a36-9251-a467294392ab)
 
 ## Abstract
 
